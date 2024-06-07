@@ -1,0 +1,25 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/dky/Projects/arm_ws/install/rm_ros_interfaces/include/**",
+        "/home/dky/Projects/town_ws/install/interfaces/include/**",
+        "/home/dky/Projects/dev_ws/install/learning_interface/include/**",
+        "/opt/ros/humble/include/**",
+        "/home/dky/Projects/arm_ws/src/rm_control/include/**",
+        "/home/dky/Projects/arm_ws/src/rm_driver/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
